@@ -24,4 +24,5 @@ RateReads is an online website that allows university students to rate, review, 
 2. Non-acceptance tests: Unit, Integration, End-to-end
 
 ## Setup Instructions
+https://github.com/Avi-Choksi/RateReads/blob/master/CONFIGURE_ENVIRONMENT.md
 
