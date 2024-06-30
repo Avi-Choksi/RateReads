@@ -26,3 +26,4 @@
         To view the coverage information, navigate to the `/coverage/cypress` directory in your project directory 
 
 ### Acceptance tests
+https://github.com/Avi-Choksi/RateReads/blob/master/tests-acceptance/CONFIGURE.md
